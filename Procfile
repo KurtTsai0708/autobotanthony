@@ -1,1 +1,1 @@
-web: dotnet LineBotProject.dll
+web dotnet LineBotProject.dll
